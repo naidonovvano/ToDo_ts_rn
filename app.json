@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7c317178-4a78-45ea-9946-12caa58c289d"
+      }
+    },
+    "owner": "naidonovvano",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7c317178-4a78-45ea-9946-12caa58c289d"
     }
   }
 }
